@@ -1,0 +1,17 @@
+h2 {
+    font-size: 20px;
+    line-height: 49px;
+    text-align: center;
+    color: #191919;
+    margin: 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 30px;
+    color: #ffffff;
+    background: #cccccc;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+}
